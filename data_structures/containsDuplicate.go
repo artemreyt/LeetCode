@@ -13,7 +13,7 @@
 // Input: nums = [1,1,1,3,3,4,3,2,4,2]
 // Output: true
 
-package algorithms
+package datastructures
 
 func containsDuplicate(nums []int) bool {
 	set := make(map[int]struct{})

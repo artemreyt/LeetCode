@@ -15,7 +15,7 @@
 // Input: nums = [5,4,-1,7,8]
 // Output: 23
 
-package algorithms
+package datastructures
 
 func maxInt(x, y int) int {
 	if x < y {
