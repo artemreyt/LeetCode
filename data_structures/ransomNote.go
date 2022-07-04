@@ -12,6 +12,8 @@
 // Example 3:
 // Input: ransomNote = "aa", magazine = "aab"
 // Output: true
+//
+// P.S: typical ransom note is made from cut out letters from a magazine.
 
 package datastructures
 
